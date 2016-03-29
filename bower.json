@@ -1,0 +1,19 @@
+{
+  "name": "csk",
+  "version": "1.0.0",
+  "authors": [
+    "Aksigera"
+  ],
+  "description": "website",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~4.0.0"
+  }
+}
